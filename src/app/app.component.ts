@@ -40,7 +40,6 @@ export class AppComponent {
         return;
 
     }
-    console.log('authStatus',this.authService.authStatus());
 
   })
 }
